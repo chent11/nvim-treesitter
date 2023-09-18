@@ -191,7 +191,7 @@
   (comment) @keyword.directive @nospell)
   (#lua-match? @keyword.directive "^#!/"))
 
-(string) @string
+(string) @string @spell
 
 [
   (escape_sequence)
