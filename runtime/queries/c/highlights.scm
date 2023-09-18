@@ -133,7 +133,7 @@
     ":"
   ] @keyword.conditional.ternary)
 
-(string_literal) @string
+(string_literal) @string @spell
 
 (system_lib_string) @string
 
